@@ -4,7 +4,7 @@
 
 ### Machine Learning • Data Engineering • Real-Time Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&lines=Building+intelligent+systems+for+real-world+applications;Machine+Learning+%7C+Data+Engineering+%7C+Backend+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&lines=;Machine+Learning+%7C+Data+Engineering+%7C+Backend+Infrastructure" />
 
 </div>
 
