@@ -2,7 +2,7 @@
 
 # Vikranth
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&lines=Machine+Learning+%E2%80%A2+Data+Engineering+%E2%80%A2+Real-Time+Audio+Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Data+Engineering;Real-Time+Audio+Analytics" />
 
 </div>
 
