@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Vikranth-512" alt="GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/39D353/Vikranth-512" alt="GitHub Contributions" />
 </div>
 
 <br>
