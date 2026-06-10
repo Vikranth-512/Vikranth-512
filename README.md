@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vikranth
+# Vikranth.B
 
 ### Machine Learning • Data Engineering • Real-Time Systems
 
