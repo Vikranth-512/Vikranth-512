@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=350&lines=Vikranth" />
+# Vikranth
 
-### Machine Learning • Data Engineering • Real-Time Audio Analytics
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&lines=Machine+Learning+%E2%80%A2+Data+Engineering+%E2%80%A2+Real-Time+Audio+Analytics" />
 
 </div>
 
