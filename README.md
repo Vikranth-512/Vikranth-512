@@ -22,7 +22,7 @@ Building intelligent visuvalization systems , real-time analytics/telemetry pipe
 
 <br>
 
-## 🛠 Technologies
+## 🛠 Tech Stack & Tools
 
 <div align="center">
 
