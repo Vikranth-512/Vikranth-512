@@ -55,10 +55,3 @@ Building intelligent visuvalization systems , real-time analytics/telemetry pipe
 
 <br>
 
-## 📈 Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/39D353/Vikranth-512" alt="GitHub Contributions" />
-
-</div>
