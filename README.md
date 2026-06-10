@@ -6,18 +6,6 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikranth-512&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth-512&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" width="48%" />
-
-</div>
-
-<br>
-
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
@@ -46,6 +34,18 @@
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vikranth-512&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth-512&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" width="48%" />
 
 </div>
 
