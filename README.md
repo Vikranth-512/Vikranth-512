@@ -94,6 +94,6 @@ Machine Learning and Data Engineering enthusiast with interests in:
 
 <div align="center">
 
-*"Building scalable ML systems, data pipelines, and real-time intelligent applications."*
+*"Building scalable optimized ML systems, telemetry/analytic pipelines, and real-time intelligent applications."*
 
 </div>
