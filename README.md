@@ -1,14 +1,10 @@
 <div align="center">
 
-# Vikranth.B
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=350&lines=Vikranth" />
 
-### Machine Learning • Data Engineering • Real-Time Systems
-
-Building intelligent visuvalization systems , real-time analytics/telemetry pipelines, and applied ML solutions.
+### Machine Learning • Data Engineering • Real-Time Audio Analytics
 
 </div>
-
-<br>
 
 ## 📊 GitHub Statistics
 
