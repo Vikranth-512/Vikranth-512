@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&lines=Machine+Learning+%E2%80%A2+Data+Engineering+%E2%80%A2+Real-Time+Analytic/Telemetry+Systems" />
 
-</div>
-
-## 🛠 Tech Stack & Tools
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
