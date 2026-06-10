@@ -34,7 +34,7 @@ Machine Learning and Data Engineering enthusiast with interests in:
 
 <br><br>
 
-##@ Machine Learning & Data Science
+### Machine Learning & Data Science
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
