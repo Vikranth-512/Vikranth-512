@@ -17,7 +17,7 @@ Machine Learning and Data Engineering enthusiast with interests in:
 - Machine Learning & Data visuvalization
 - Data Engineering & ETL Pipelines
 - Real-Time Analytics & Telemetry Systems
-- Pattern/Trend derivation from large scale simulations and datasets
+- Large Scale Simulations and Datasets Engineering
 - 3d modelling and optimized assets/scene rendering
 
 ---
